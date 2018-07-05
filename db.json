@@ -1,9 +1,11 @@
-[{
-	"registrationNumber": "XLI887",
-	"color": "Blue"
-},
 {
-	"registrationNumber": "XLI881",
-	"color": "Blue"
-} 
-]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
