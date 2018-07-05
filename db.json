@@ -1,9 +1,9 @@
 {
-  "posts": [
+  "cars": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+	"registrationNumber": "XLI887",
+	"color": "Blue"
+}
   ],
   "profile": {
     "name": "typicode"
